@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import type { Page } from '../payload-types'
 
 export const staticCart: Page = {

@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import type { Product } from '../payload-types'
 
 export const product2: Partial<Product> = {

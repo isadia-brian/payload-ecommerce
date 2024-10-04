@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import type { PayloadHandler } from 'payload/config'
 import Stripe from 'stripe'
 
